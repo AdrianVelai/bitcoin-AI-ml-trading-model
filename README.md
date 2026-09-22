@@ -7,7 +7,7 @@ Maintained by **Adrian Velai**.
 - **Methodology:** https://www.bitcoinai.pro/ai-trading-models/
 - **Backtest record:** https://www.bitcoinai.pro/#record
 - **Live trades:** https://t.me/bitcoinaiproo
-- **Third-party verification:** https://www.fxblue.com/users/bitcoinaipro
+- **Third-party verification:** https://www.fxblue.com/users/bitcoinai_pro
 
 ## Approach
 
