@@ -3,7 +3,7 @@
 A machine learning model trading bitcoin, published in full: the methodology behind it, every trade as it happens, and the campaigns that were closed in the red.
 
 Maintained by **Adrian Velai**.
-
+  - **Info** https://bitcoinai.pro
 - **Methodology:** https://www.bitcoinai.pro/ai-trading-models/
 - **Backtest record:** https://www.bitcoinai.pro/#record
 - **Live trades:** https://t.me/bitcoinaiproo
